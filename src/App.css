@@ -1,7 +1,6 @@
 .App {
   text-align: center;
-  height: 100vh;
-  background-color: #282c34;
+  height: 100dvh;
 }
 
 .audio-container {
@@ -14,5 +13,5 @@
 }
 
 .text {
-  color: bisque;
+  color: #6083b3;
 }
